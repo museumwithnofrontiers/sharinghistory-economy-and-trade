@@ -1,5 +1,5 @@
 {
-  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Economy and Trade (exhibitions/AWE/, exhibition 6), each file as legacy serves it, byte for byte: the pages' icons and strips, and the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image). tests/assets.test.js checks every file against its hash.",
+  "about": "The frame this website takes from legacy Sharing History's virtual exhibition Economy and Trade (exhibitions/AWE/, exhibition 6), each file as legacy serves it, byte for byte: the pages' icons and strips, the three pictures behind the exhibition's title (its styles' home_image, intro_image and exh_image) and the partners' logos on the home page (logos/). tests/assets.test.js checks every file against its hash.",
   "files": {
     "theme/assets/legacy/arrow_black_down.gif": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/arrow_black_down.gif",
@@ -44,6 +44,14 @@
     "theme/assets/legacy/intro_bg.jpg": {
       "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/6/intro_bg.jpg",
       "sha256": "631ea38d431ca372850258f4e8d9b72847f88db24b069a2bc368cb15a5136637"
+    },
+    "theme/assets/legacy/logos/item_logo_16.jpg": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/6/item_logo_16.jpg",
+      "sha256": "a4e4c6e0907c1e2dd8b818739fd8970d92a3c36cbb71fcadbfea4c52a1ce0d67"
+    },
+    "theme/assets/legacy/logos/item_logo_26.png": {
+      "source": "https://images.museumwnf.org/full/sharing_history/sh_exhibitions/exhibitions/AWE/6/item_logo_26.png",
+      "sha256": "6d4ffcc3062bdfc669c3e0ee1d10782853b7f9c6374a949edc324061753efb0b"
     },
     "theme/assets/legacy/magnify.png": {
       "source": "https://sharinghistory.museumwnf.org/exhibitions/AWE/images/magnify.png",
